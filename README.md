@@ -1,4 +1,4 @@
-# womensafety
+# safe-path tales
 
 Features of the projects are :
   1.)Biometric Authentication in the application either by fingerprint or face and Splash screen .
